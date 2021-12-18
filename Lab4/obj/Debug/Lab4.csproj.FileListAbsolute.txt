@@ -1,0 +1,8 @@
+C:\Users\Глеб\Desktop\ЛБ\5 семестр\ТП\4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Глеб\Desktop\ЛБ\5 семестр\ТП\4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Глеб\Desktop\ЛБ\5 семестр\ТП\4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Глеб\Desktop\ЛБ\5 семестр\ТП\4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\Desktop\ЛБ\5 семестр\ТП\4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Глеб\Desktop\ЛБ\5 семестр\ТП\4\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Глеб\Desktop\ЛБ\5 семестр\ТП\4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Глеб\Desktop\ЛБ\5 семестр\ТП\4\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
